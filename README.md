@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
 
+I'm **Alexander Gomzyakov**, <nobr>a design-minded</nobr> software engineer focused on building high-quality websites and applications. :technologist:
+
+
+In my spare time, I developing a Q&amp;A service [Answeropedia](https://answeropedia.org/en/). It's like Wikipedia, only for questions and answers. It is an [*open source*](https://github.com/answeropedia) project.
+
+I am currently working at [Avtocod](https://avtocod.ru/). We create an incredible service for getting information about used cars. And we also give something to [open source](https://github.com/avto-dev).
+    
 <!--
 **gomzyakov/gomzyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
