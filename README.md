@@ -6,19 +6,17 @@ I'm **Alexander Gomzyakov**, <nobr>a design-minded</nobr> software engineer focu
 
 - [Avtocod](https://avtocod.ru)
 - [Avtocod Profi](https://profi.avtocod.ru)
+- [EGRN Reester](https://egrnreester.ru)
 
 🌱 In my spare time, I developing a Q&amp;A service [Answeropedia](https://answeropedia.org/en/). It's like Wikipedia, only for questions and answers. It is an [*open source*](https://github.com/answeropedia) project.
 
-<!--**gomzyakov/gomzyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Something about me:
 
-Here are some ideas to get you started:
+- 🇷🇺 I live in Yekaterinburg, Russia
+- 👨‍💻 My favourite languge is PHP
+- 🔭 My hobbies: programming, cycling, swimming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+
+- Email: alexander.gomzyakov@gmail.com
+- Telegram: [@gomzyakov](https://telegram.me/gomzyakov)
