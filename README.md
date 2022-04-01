@@ -12,9 +12,9 @@ I'm **Alexander Gomzyakov**, <nobr>a design-minded</nobr> software engineer focu
 
 Something about me:
 
-- 🇷🇺 I live in Yekaterinburg, Russia
-- 👨‍💻 My favourite languge is PHP
-- 🔭 My hobbies: programming, cycling, swimming
+- My favourite languge is PHP 🐘
+- I use Macbook Air 👨‍💻 for work
+- I like programming, cycling, swimming
 
 ### Contacts
 
