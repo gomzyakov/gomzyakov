@@ -12,9 +12,9 @@ I'm **Alexander Gomzyakov**, <nobr>a design-minded</nobr> software engineer focu
 
 Something about me:
 
-- My favourite languge is PHP 🐘
-- I use Macbook Air 👨‍💻 for work
-- I like programming, cycling, swimming
+- 🎉 My favourite languge is PHP 🐘
+- 🤟 I like programming, cycling, swimming
+- 👨‍💻 I prefer Apple devices for work
 
 ### Contacts
 
