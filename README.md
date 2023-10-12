@@ -6,6 +6,6 @@ I'm **Alexander Gomzyakov**, <nobr>a design-minded</nobr> software engineer focu
 
 - [Avtocod](https://avtocod.ru)
 - [Avtocod Profi](https://profi.avtocod.ru)
-- [EGRN](http://egrnrstr.ru)
+- [EGRN](https://egrnrstr.ru)
 
 <!-- 🌱 In my spare time, I developing a Q&amp;A service [Answeropedia](https://answeropedia.org/en/). It's like Wikipedia, only for questions and answers. It is an [*open source*](https://github.com/answeropedia) project. -->
